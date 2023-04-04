@@ -1,0 +1,15 @@
+/* Only for home page carousel component */
+.carousel .carousel-item {
+  height: 550px;
+}
+
+/* carousel img css starts here */
+.carousel-item img {
+  position: absolute;
+  object-fit: fill;
+  top: 0;
+  left: 0;
+  min-height: 100%;
+}
+
+/* carousel img css ends here */

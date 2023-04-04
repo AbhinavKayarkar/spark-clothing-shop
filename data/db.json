@@ -1,0 +1,275 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Roadster",
+      "description": "Men Cotton Causal Shirt",
+      "category": "men",
+      "maxretailPrice": "Rs. 1499",
+      "sellingPrice": "Rs. 674",
+      "discount": "(55% OFF)",
+      "rating": "4.3",
+      "review": "|27.9K",
+      "imgSrc": "/assets/images/product-images/product1.png",
+      "reviews": []
+    },
+    {
+      "id": 2,
+      "title": "Dennis Lingo",
+      "description": "Men Slim Fit Causal Shirt",
+      "category": "men",
+      "maxretailPrice": "Rs. 1849",
+      "sellingPrice": "Rs. 699",
+      "discount": "(62% OFF)",
+      "rating": "4.1",
+      "review": "|11.2K",
+      "imgSrc": "/assets/images/product-images/product2.png",
+      "reviews": []
+    },
+    {
+      "id": 3,
+      "title": "WROGN",
+      "description": "Men Slim Fit Causal Shirt",
+      "category": "men",
+      "maxretailPrice": "Rs. 2399",
+      "sellingPrice": "Rs. 1679",
+      "discount": "(30% OFF)",
+      "rating": "4.1",
+      "review": "|21.9K",
+      "label": "New Season",
+      "imgSrc": "/assets/images/product-images/product3.png",
+      "reviews": [
+        {
+          "name": "Aditya",
+          "email": "ad@gmail.com",
+          "phone": "8237568903",
+          "feedback": "hhhhhyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+          "productRating": 4,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "HIGHLANDER",
+      "description": "Men Cotton Causal Shirt",
+      "category": "men",
+      "maxretailPrice": "Rs. 1149",
+      "sellingPrice": "Rs. 631",
+      "discount": "(45% OFF)",
+      "rating": "4.2",
+      "review": "|5K",
+      "imgSrc": "/assets/images/product-images/product4.png",
+      "reviews": []
+    },
+    {
+      "id": 5,
+      "title": "Nayo",
+      "description": "Women Kurta With Trouser",
+      "category": "women",
+      "maxretailPrice": "Rs. 3699",
+      "sellingPrice": "Rs. 1368",
+      "discount": "(63% OFF)",
+      "rating": "4.1",
+      "review": "|7.7K",
+      "imgSrc": "/assets/images/product-images/product5.png",
+      "reviews": [
+        {
+          "name": "Kiran G",
+          "email": "KG@gmail.com",
+          "phone": "7973653436",
+          "feedback": "nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn",
+          "productRating": 4,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Sangria",
+      "description": "Cotton Floral Kurta",
+      "category": "women",
+      "maxretailPrice": "Rs. 3599",
+      "sellingPrice": "Rs. 1799",
+      "discount": "(50% OFF)",
+      "rating": "4.4",
+      "review": "|11.9K",
+      "label": "New Season",
+      "imgSrc": "/assets/images/product-images/product6.png",
+      "reviews": [
+        {
+          "name": "Kiran K",
+          "email": "K@gmail.com",
+          "phone": 7973653436,
+          "feedback": "ttttttttttttttttttttttttttttttttttttttttttttttttttttttttt",
+          "productRating": 4,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Anayna",
+      "description": "Women Self Kurta Set",
+      "category": "women",
+      "maxretailPrice": "Rs. 3999",
+      "sellingPrice": "Rs. 1799",
+      "discount": "(55% OFF)",
+      "rating": "4.3",
+      "review": "|2.2K",
+      "imgSrc": "/assets/images/product-images/product7.png",
+      "reviews": [
+        {
+          "name": "sd",
+          "email": "a@b.com",
+          "phone": "03333333123",
+          "feedback": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+          "productRating": 3,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "3-peice",
+      "description": "Boys 3-Piece set",
+      "category": "kid",
+      "maxretailPrice": "Rs. 2099",
+      "sellingPrice": "Rs. 1549",
+      "discount": "(26% OFF)",
+      "rating": "4.3",
+      "review": "|10.9K",
+      "imgSrc": "/assets/images/product-images/product8.png",
+      "reviews": [
+        {
+          "name": "we",
+          "email": "f@gmail.com",
+          "phone": "45555555554",
+          "feedback": "rgtffffffffffffffffffffffffffffffffffffffffffdeeee",
+          "productRating": 3,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "White 3-Piece",
+      "description": "Boys white 3-Piece set",
+      "category": "kid",
+      "maxretailPrice": "Rs. 1999",
+      "sellingPrice": "Rs. 1899",
+      "discount": "(5% OFF)",
+      "rating": "4.7",
+      "review": "|203K",
+      "imgSrc": "/assets/images/product-images/product9.png",
+      "reviews": []
+    },
+    {
+      "id": 10,
+      "title": "2-Piece",
+      "description": "Boys 2-Piece Cotton Jersey Set",
+      "category": "kid",
+      "maxretailPrice": "Rs. 799",
+      "sellingPrice": "Rs. 674",
+      "discount": "(15% OFF)",
+      "rating": "4.3",
+      "review": "|27.9K",
+      "label": "New Season",
+      "imgSrc": "/assets/images/product-images/product10.png",
+      "reviews": [
+        {
+          "name": "sd",
+          "email": "a@b.com",
+          "phone": "13333333123",
+          "feedback": "It was great products. Good quality and value for money",
+          "productRating": 4,
+          "id": 1
+        },
+        {
+          "name": "Aditya",
+          "email": "ad@gmail.com",
+          "phone": "8237568903",
+          "feedback": "ghjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk",
+          "productRating": 4,
+          "id": 2
+        }
+      ]
+    }
+  ],
+  "contactData": [
+    {
+      "id": 1,
+      "address": "280 ParK Avenue Z,Cross cut Complex, Bangalore, India",
+      "phone": [
+        "(91) 9876543210",
+        "(91) 9876543211"
+      ],
+      "email": "contact@sparkclothing.com"
+    }
+  ],
+  "getInTouchData": [
+    {
+      "name": "sd",
+      "email": "a@b.com",
+      "phone": 3333333123,
+      "message": "Hi",
+      "id": 1
+    },
+    {
+      "name": "Aditya",
+      "email": "ad@gmail.com",
+      "phone": 8237568903,
+      "message": "Great app.",
+      "id": 2
+    },
+    {
+      "name": "Sunil",
+      "email": "s@gmail.com",
+      "phone": 5789403,
+      "message": "Good ",
+      "id": 3
+    },
+    {
+      "name": "Kiran K",
+      "email": "K@gmail.com",
+      "phone": 7973653436,
+      "message": "Great user experience with this app.",
+      "id": 4
+    },
+    {
+      "name": "Kiran G",
+      "email": "KG@gmail.com",
+      "phone": 7973653436,
+      "message": "ghu",
+      "id": 5
+    },
+    {
+      "name": "we",
+      "email": "s@dc",
+      "phone": 3333333123,
+      "message": "ttttttttttttt",
+      "id": 6
+    },
+    {
+      "name": "we",
+      "email": "f@gmail.com",
+      "phone": 13333333123,
+      "message": "Hi",
+      "id": 7
+    },
+    {
+      "name": "RRR",
+      "email": "rrr@gmail.com",
+      "phone": 1000000001,
+      "message": "Oscar",
+      "id": 8
+    },
+    {
+      "name": "we",
+      "email": "f@gmail.com",
+      "phone": 99999999999,
+      "message": "ok",
+      "id": 9
+    }
+  ]
+}
